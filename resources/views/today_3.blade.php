@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section("content")
-<div class="w-screen h-screen flex flex-col items-center justify-center">
+<div class="w-full h-screen flex flex-col items-center justify-center">
   <div class="mb-4 text-xl underline"><a href="/30/today/2">&laquo; Back</a></div>
   <div class="px-4 w-full">
     <div class="w-full embed-responsive aspect-ratio-16/9">

@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section("content")
-<div class="w-screen h-screen flex flex-col items-center justify-center">
+<div class="w-full h-screen flex flex-col items-center justify-center">
   <div class="mb-4 text-xl underline"><a href="/30/today/4">&laquo; Back</a></div>
   <div class="px-4 w-full">
     <img src="https://i.pinimg.com/originals/e3/06/06/e30606f73f0864a34a723e1d13c4233b.jpg"
