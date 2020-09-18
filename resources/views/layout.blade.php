@@ -10,7 +10,9 @@
 </head>
 
 <body>
-  @yield("content")
+  <div class="max-w-xl">
+    @yield("content")
+  </div>
 </body>
 
 </html>
